@@ -1,4 +1,11 @@
 
+# Website Kelola Siswa By Sanjaya (CRUD)
+Platform ini dirancang untuk mempermudah pengelolaan data siswa, sekolah, dan provinsi dalam satu sistem terpadu. Dengan antarmuka yang sederhana dan responsif, Anda dapat mencari sekolah, menganalisis data, serta mengelola informasi siswa dengan cepat dan efisien
+
+## Developer
+
+- I Made Putra Sanjaya - [Sansv](https://github.com/Sansv25)
+
 # 🚀 Cara Menjalankan Aplikasi Laravel
 
 Panduan ini akan membantu Anda menjalankan aplikasi Laravel di komputer lokal dengan langkah-langkah yang jelas dan terstruktur.
